@@ -1,11 +1,19 @@
-<h1 align="center">Hi 👋, I am Ahmed Ayman</h1>
+<h1 align="center">Hi 👋, I am Ahmed Ayman.</h1>
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/aayymann/aayymann/blob/main/dog_with_pen.gif" alt="ahmedayman's gif" /></p>
 
 
-<br>
+<h3 align="left">About me</h3>
+<p align="left">
+  <ul>
+    <li>I am Senior Computer Engineering student at CUFE.</li>
+    <li> I am currenly learning about DevOps📖. </li>
+  </ul>
+      <b>PS: I am vengenace 🦇</li></b>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
