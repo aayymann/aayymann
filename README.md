@@ -9,7 +9,7 @@
 <p align="left">
   <ul>
     <li>I am Senior Computer Engineering student at CUFE.</li>
-    <li> I am currenly learning about DevOps📖. </li>
+    <li> Trying to be more "devopsy" ♾️. </li>
   </ul>
       <b>PS: I am vengenace 🦇</li></b>
 </p>
